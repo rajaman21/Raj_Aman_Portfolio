@@ -2,7 +2,7 @@
 
 > ⚡ Built with HTML5, CSS3, JavaScript | Hosted on **GitHub Pages**
 
-### 🔗 [Live Website](github.com/rajaman21/My-Portfolio)
+### 🔗 [Live Website](rajaman21.github.io/Raj_Aman_Portfolio/)
 
 ---
 
