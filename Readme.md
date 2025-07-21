@@ -2,7 +2,8 @@
 
 > ⚡ Built with HTML5, CSS3, JavaScript | Hosted on **GitHub Pages**
 
-### 🔗 [Live Website](rajaman21.github.io/Raj_Aman_Portfolio/)
+### 🔗 Live Website  
+[![Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-2ea44f?style=for-the-badge&logo=github)](https://rajaman21.github.io/Raj_Aman_Portfolio/)
 
 ---
 
